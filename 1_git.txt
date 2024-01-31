@@ -8,3 +8,16 @@ git commit
 git stash 
 git reset --hard
 
+
+Once you have done 
+git add .
+then the files are stashed. 
+so if you edit again after the above command then the changes are not stashed and if done: 
+git commit 
+the modified content is not saved.. 
+
+
+Note : 
+git config --global user.email "email@gmail.com"
+git config --global user.name "name"
+
