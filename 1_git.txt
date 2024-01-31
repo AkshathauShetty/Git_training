@@ -23,4 +23,4 @@ git config --global user.name "name"
 
 
 git pull from the repo. 
-this is a remote commit.
+this is a remote commit...
