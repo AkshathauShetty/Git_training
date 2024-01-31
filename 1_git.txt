@@ -1,0 +1,10 @@
+hello from git training
+git init
+git add . = add the unstaged filesto staging area.
+  
+git reset
+git add *
+git commit
+git stash 
+git reset --hard
+
