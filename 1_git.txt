@@ -29,3 +29,6 @@ this is a remote commit.
 
 >>>> during conflicts: 
 git pull 
+
+
+....editing...
