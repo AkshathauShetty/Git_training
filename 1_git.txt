@@ -21,3 +21,6 @@ Note :
 git config --global user.email "email@gmail.com"
 git config --global user.name "name"
 
+
+git pull from the repo. 
+this is a remote commit.
