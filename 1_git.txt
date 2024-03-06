@@ -24,8 +24,16 @@ git config --global user.name "name"
 
 git pull from the repo. 
 this is a remote commit.
+editing....
 
 
 
 >>>> during conflicts: 
 git pull 
+
+
+<<<<<<< HEAD
+>> git checkout test
+=======
+....editing...
+>>>>>>> bdc5ae6287bde10f7babb3ccdfee453559686f97
